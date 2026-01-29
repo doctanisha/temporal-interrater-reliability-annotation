@@ -27,10 +27,10 @@ Rather than optimizing for scale, the emphasis is on **process quality**—the s
 - How annotation workflows can align with established regulatory and ethical principles  
 
 The workflow is conceptually aligned with:
-- :contentReference[oaicite:0]{index=0} — Good Machine Learning Practice (GMLP)  
-- :contentReference[oaicite:1]{index=1} — Ethics & Governance of AI for Health  
-- :contentReference[oaicite:2]{index=2} — data quality and human-centered design principles  
-- :contentReference[oaicite:3]{index=3} / :contentReference[oaicite:4]{index=4} — transparency in data generation  
+- Good Machine Learning Practice (GMLP)  
+- Ethics & Governance of AI for Health  
+- Data quality and human-centered design principles  
+- Transparency in data generation  
 
 No certification or formal compliance is claimed—only **methodological alignment**.
 
@@ -39,9 +39,9 @@ No certification or formal compliance is claimed—only **methodological alignme
 ## Data overview
 
 - **Type:** Short textual statements describing tiredness or low energy  
-- **Source:** Synthetic or de-identified text  
+- **Source:** Synthetic text  
 - **Unit of annotation:** One sentence per item  
-- **Size:** 30–50 items  
+- **Size:** 30 items  
 
 No personal identifiers or patient data are used.
 
@@ -72,4 +72,4 @@ All labeling is governed by a written **annotation style guide**, which defines:
 
 The guidelines are **versioned** to ensure traceability.
 
-Files:
+
