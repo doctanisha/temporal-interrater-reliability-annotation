@@ -1,1 +1,9 @@
+import pandas as pd
+from sklearn.metrics import cohen_kappa_score
+
+r1 = pd.read_csv("../annotations/annotations_round1.csv", header=None)
+r2 = pd.read_csv("../annotations/annotations_round2.csv", header=None)
+
+kappa = cohen_kappa_score(r1[0], r2[0])
+print(f"Cohen's kappa: {kappa:.3f}")
 
