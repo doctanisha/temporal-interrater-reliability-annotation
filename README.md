@@ -23,7 +23,7 @@ Rather than optimizing for scale, the emphasis is on **process quality**—the s
 
 - How annotation guidelines reduce ambiguity  
 - How consistency can be assessed even with a single annotator  
-- How disagreements reveal weaknesses in rules (not “mistakes”)  
+- How disagreements reveal weaknesses in rules
 - How annotation workflows can align with established regulatory and ethical principles  
 
 The workflow is conceptually aligned with:
