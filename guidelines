@@ -1,1 +1,26 @@
+# Annotation Guidelines v1.0
+
+Goal:
+Label short statements describing tiredness into one of three categories.
+
+Labels:
+
+F – Fatigue
+- Explicit duration ≥ 2 weeks
+- Persistent or daily tiredness
+- Not clearly situational
+
+S – Stress-related tiredness
+- Clearly linked to work, exams, travel, sleep loss, or shifts
+- Situational or temporary
+
+U – Unclear
+- Duration not specified
+- Mixed or vague descriptions
+- Requires inference
+
+Rules:
+- Use only information explicitly stated
+- Do not infer duration or cause
+- When in doubt, assign Unclear
 
