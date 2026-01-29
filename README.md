@@ -1,5 +1,3 @@
-# temporal-interrater-reliability-annotation
-Temporal inter-rater reliability using guideline-driven annotation with temporally separated rounds
 # Temporal Inter-Rater Reliability in Human Annotation  
 ### A guideline-driven annotation project with temporally separated labeling
 
