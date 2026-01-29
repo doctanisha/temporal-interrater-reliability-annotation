@@ -70,6 +70,6 @@ All labeling is governed by a written **annotation style guide**, which defines:
 - explicit decision rules  
 - default handling of uncertainty  
 
-The guidelines are **versioned** to ensure traceability.
+
 
 
